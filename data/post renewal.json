@@ -1,0 +1,14 @@
+{
+    "customerId": "0b3a16ea-d3cc-11ea-87cb-8ea21db6e23d",
+    "originTypeId": "Web",
+    "paymentStatus": "paid",
+    "amountPaid": 500,
+    "discount": 250,
+    "totalTax": 90,
+    "packagePlanId": "bf568002-d589-11ea-87cb-8ea21db6e23d",
+    "packageId": "941040a7-cb17-11ea-9226-8ea21db6e23d",
+    "subscriptionId": "4ec51435-d574-11ea-87cb-8ea21db6e23d",
+    "transType": "cash",
+    "storageSize": 1,
+    "noOfUsers": 1
+}

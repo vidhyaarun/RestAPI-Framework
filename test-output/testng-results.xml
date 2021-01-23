@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5031" started-at="2021-01-21T06:11:52Z" finished-at="2021-01-21T06:11:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5031" started-at="2021-01-21T06:11:52Z" finished-at="2021-01-21T06:11:57Z">
+      <class name="tests.rest.Plan_Put">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:tests.rest.Plan_Put@67b92f0a]" name="beforeSuite" is-config="true" duration-ms="1444" started-at="2021-01-21T11:41:51Z" finished-at="2021-01-21T11:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="setValues()[pri:0, instance:tests.rest.Plan_Put@67b92f0a]" name="setValues" is-config="true" duration-ms="0" started-at="2021-01-21T11:41:52Z" finished-at="2021-01-21T11:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setValues -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.rest.Plan_Put@67b92f0a]" name="beforeClass" is-config="true" duration-ms="1" started-at="2021-01-21T11:41:52Z" finished-at="2021-01-21T11:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:tests.rest.Plan_Put@67b92f0a]" name="beforeMethod" is-config="true" duration-ms="7" started-at="2021-01-21T11:41:52Z" finished-at="2021-01-21T11:41:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="planput(java.io.File)[pri:0, instance:tests.rest.Plan_Put@67b92f0a]" name="planput" duration-ms="4980" started-at="2021-01-21T11:41:52Z" data-provider="fetchData" finished-at="2021-01-21T11:41:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[.\data\plan put.JSON]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- planput -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.rest.Plan_Put@67b92f0a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-01-21T11:41:57Z" finished-at="2021-01-21T11:41:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.rest.Plan_Put@67b92f0a]" name="afterSuite" is-config="true" duration-ms="562" started-at="2021-01-21T11:41:57Z" finished-at="2021-01-21T11:41:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.rest.Plan_Put -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

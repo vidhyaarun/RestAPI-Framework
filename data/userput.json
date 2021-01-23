@@ -1,0 +1,15 @@
+{
+   "userId":"12ac05f8-4a64-11eb-9a4d-8ea21db6e23d",
+   "signon":"",
+   "firstName":"apiguestlecture",
+   "lastName":"test",
+   "emailId":"apimanualapi@gmail.com",
+   "mobileCountryId":"+91",
+   "mobileNo":"8876541451",
+   "authTypeId":"8cc60da7-b170-11ea-8888-8ea21db6e23d",
+   "role":"User",
+   "billingPermission":1,
+   "salesPermission":1,
+   "reportPermission":1,
+   "status":"active"
+}

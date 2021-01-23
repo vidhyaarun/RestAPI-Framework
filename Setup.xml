@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+			 <class name="tests.rest.Package_Post" />
+			<class name="tests.rest.Packagelist_Get" />
+			<class name="tests.rest.Package_Get" />
+			<class name="tests.rest.Package_Put" />
+			<class name="tests.rest.Package_Delete" />
+			
+			<class name="tests.rest.Plan_Post" />
+			<class name="tests.rest.Planlist_Get" />
+			<class name="tests.rest.Plan_Get" />
+			<class name="tests.rest.Plan_Put" />
+			<class name="tests.rest.Plan_Delete" />
+
+			<class name="tests.rest.User_Post" />
+			<class name="tests.rest.Userlist_Get" />
+			<class name="tests.rest.User_Get" />
+			<class name="tests.rest.User_Put" />
+			<class name="tests.rest.User_Delete" />
+
+		
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

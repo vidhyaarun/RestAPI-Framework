@@ -1,0 +1,20 @@
+{
+   "packageId":"b6ffed46-5ba8-11eb-9a4d-8ea21db6e23d",
+   "planName":"tree",
+   "planTypeId":"4f9cf035-53df-11eb-9a4d-8ea21db6e23d",
+   "noOfUsers":2,
+   "maxStorage":1,
+   "additionalStorage":1,
+   "setupFees":1,
+   "none":0,
+   "outLook":0,
+   "gmail":0,
+   "googleDrive":0,
+   "dropBox":0,
+   "campaign":0,
+   "bI":0,
+   "status":1,
+   "uomId":"day",
+   "units":1,
+   "price":1
+}

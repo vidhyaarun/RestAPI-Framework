@@ -1,0 +1,14 @@
+{
+   "id":"e4ee8b63-5a1c-11eb-9a4d-8ea21db6e23d",
+   "packageName":"life",
+   "packageCode":"PACK0000127",
+   "imageUrl":"",
+   "moduleList":[
+      "6ad26f05-bad0-11ea-9226-8ea21db6e23d",
+      "d49e30bd-bacf-11ea-9226-8ea21db6e23d",
+      "a74c0229-bad0-11ea-9226-8ea21db6e23d",
+      "a08fc413-bad0-11ea-9226-8ea21db6e23d"
+   ],
+   "status":1,
+   "packageDesc":"Package..,"
+}

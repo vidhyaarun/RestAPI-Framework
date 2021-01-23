@@ -1,0 +1,13 @@
+{
+   "subscriptionId":"cb96f99d-5491-11eb-9a4d-8ea21db6e23d",
+   "customerId":"2ba59d1f-4057-11eb-8844-8ea21db6e23d",
+   "originTypeId":"Web",
+   "amountPaid":300,
+   "packagePlanId":"652dc68c-4f27-11eb-9a4d-8ea21db6e23d",
+   "storageSize":2,
+   "additionStorage":0,
+   "noOfUsers":2,
+   "subscriptionDate":"2021-01-18",
+   "note":"Demonstrate",
+   "paymentStatus":null
+}

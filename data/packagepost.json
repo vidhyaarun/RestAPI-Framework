@@ -1,0 +1,11 @@
+{
+   "packageName":"welcome",
+   "packageCode":"char0",
+   "imageUrl":"",
+   "status":1,
+   "moduleList":[
+      "b5f8b935-bad0-11ea-9226-8ea21db6e23d",
+      "6ad26f05-bad0-11ea-9226-8ea21db6e23d"
+   ],
+   "packageDesc":"packaged"
+}

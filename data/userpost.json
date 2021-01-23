@@ -1,0 +1,14 @@
+{
+   "Signon":"",
+   "firstName":"ff",
+   "lastName":"gave",
+   "emailId":"ffgave@gmail.com",
+   "mobileCountryId":"+91",
+   "mobileNo":"9871678278",
+   "authTypeId":"8cc60da7-b170-11ea-8888-8ea21db6e23d",
+   "role":"User",
+   "billingPermission":0,
+   "salesPermission":1,
+   "reportPermission":0,
+   "status":"active"
+}

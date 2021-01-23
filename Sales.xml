@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+		
+			<class name="tests.rest.Enquiry_Post" />
+			<class name="tests.rest.Enquirylist_Get" />
+			<class name="tests.rest.Enquiry_Get" />
+			<class name="tests.rest.Enquiry_Put" />
+			<class name="tests.rest.Enquiry_Delete" />
+
+			<class name="tests.rest.Customer_Post" />
+			<class name="tests.rest.Customerlist_Get" />
+			<class name="tests.rest.Customer_Get" />
+			<class name="tests.rest.Customer_Put" />
+			<class name="tests.rest.Customer_Delete" />
+
+		
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<test name="Test">
+		<classes>
+
+			<class name="tests.rest.Renewal_Post" />
+			<class name="tests.rest.Renewallist_Get" />
+
+			<class name="tests.rest.Subscriptionchart_Post" />
+			<class name="tests.rest.Subscriptionchartlist_Post" />
+
+			<class name="tests.rest.Enquirychart_Post" />
+			<class name="tests.rest.Enquirychartlist_Post" />
+
+			<class name="tests.rest.Invoicechart_Post" />
+			<class name="tests.rest.Invoicechartlist_Post" />
+
+			<class name="tests.rest.NoofUserChart_Get" />
+			<class name="tests.rest.NoofUserChartlist_Get" />
+
+
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->

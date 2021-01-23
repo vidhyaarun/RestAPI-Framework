@@ -1,0 +1,18 @@
+{
+   "name":"athiraa",
+   "companyName":"aac",
+   "email":"venugopal1@gmail.com",
+   "mobileCountryId":"+91",
+   "mobileNo":"9879103151",
+   "signon":"",
+   "originTypeId":"Web",
+   "address":{
+      "addressLine1":"line33",
+      "addressLine2":"line110",
+      "addressLine3":"line13",
+      "addressTypeId":3,
+      "city":1,
+      "state":1,
+      "country":1
+   }
+}

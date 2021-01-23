@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="tests.rest.Renewal_Post">
+        <methods>
+          <include name="setValues"/>
+          <include name="subscriptions"/>
+        </methods>
+      </class> <!-- tests.rest.Renewal_Post -->
+      <class name="tests.rest.PendingInvoice_Get">
+        <methods>
+          <include name="PendingInvoice"/>
+          <include name="setValues"/>
+        </methods>
+      </class> <!-- tests.rest.PendingInvoice_Get -->
+      <class name="tests.rest.AdditionalStorage_Get">
+        <methods>
+          <include name="additionStorage"/>
+          <include name="setValues"/>
+        </methods>
+      </class> <!-- tests.rest.AdditionalStorage_Get -->
+      <class name="tests.rest.Subscription_Post">
+        <methods>
+          <include name="setValues"/>
+          <include name="beforeClass"/>
+          <include name="beforeSuite"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- tests.rest.Subscription_Post -->
+      <class name="tests.rest.Subscription_Delete">
+        <methods>
+          <include name="userdelete"/>
+          <include name="setValues"/>
+        </methods>
+      </class> <!-- tests.rest.Subscription_Delete -->
+      <class name="tests.rest.Subscription_Get">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="beforeMethod"/>
+          <include name="setValues"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- tests.rest.Subscription_Get -->
+      <class name="tests.rest.Subscriptionlist_Get">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="setValues"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- tests.rest.Subscriptionlist_Get -->
+      <class name="tests.rest.Subscription_Put">
+        <methods>
+          <include name="subscription"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- tests.rest.Subscription_Put -->
+      <class name="tests.rest.Addonsubscription_Post">
+        <methods>
+          <include name="Addonsubscriptions"/>
+          <include name="setValues"/>
+        </methods>
+      </class> <!-- tests.rest.Addonsubscription_Post -->
+      <class name="tests.rest.Renewallist_Get">
+        <methods>
+          <include name="renewal"/>
+          <include name="setValues"/>
+        </methods>
+      </class> <!-- tests.rest.Renewallist_Get -->
+      <class name="tests.rest.AdditionalStoragelist_Get">
+        <methods>
+          <include name="additionStoragelist"/>
+          <include name="setValues"/>
+        </methods>
+      </class> <!-- tests.rest.AdditionalStoragelist_Get -->
+      <class name="tests.rest.Additionorcancellicense_Get">
+        <methods>
+          <include name="addonorcancelLicencse"/>
+          <include name="setValues"/>
+        </methods>
+      </class> <!-- tests.rest.Additionorcancellicense_Get -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

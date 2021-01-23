@@ -1,0 +1,19 @@
+{
+   "userId":"5b073d48-5a1b-11eb-9a4d-8ea21db6e23d",
+   "name":"AutoS",
+   "companyName":"Automation149Cust",
+   "email":"auto149cus@yahoo.com",
+   "mobileCountryId":"+91",
+   "mobileNo":"9871140112",
+   "signon":"",
+   "originTypeId":"Web",
+   "address":{
+      "addressId":"5b483e44-5a1b-11eb-9a4d-8ea21db6e23d",
+      "addressLine1":"First Street",
+      "addressLine3":"Chennai",
+      "addressTypeId":3,
+      "city":1,
+      "state":1,
+      "country":1
+   }
+}
